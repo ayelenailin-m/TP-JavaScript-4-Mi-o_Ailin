@@ -1,4 +1,4 @@
-Proyecto - Miño Ailin Ayelen
+Proyecto Fetch API - Miño Ailin Ayelen
  
 
 Descripción:
@@ -15,7 +15,7 @@ Intrucciones para Ejecutar mi Proyecto Localmente:
 
 2. Abrí el index.html en tu navegador.
 
-3. Deberías poder ver la lista de personajes de Rick and Morty.
+3. Deberías poder ver la imagen de los personajes de Rick and Morty con sus respectivos nombres.
 
 4. Aprecialo. 
 
